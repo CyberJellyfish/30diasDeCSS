@@ -21,6 +21,7 @@ Idealized by  https://github.com/MilenaCarecho/30diasDeCSS.
 
 ## Days
 **Day 1 - Social media icon in layers**
+![social media icons with layers](Images/day1.gif)
 
 Because of this project:
 
