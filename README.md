@@ -27,11 +27,11 @@ Because of this project:
 
 :cherry_blossom: Used ```transform:translate();``` for the first time!
 
-:cherry_blossom: Used ````transform: rotate() skew();``` for the first time!
+:cherry_blossom: Used ```transform: rotate() skew();``` for the first time!
 
 :cherry_blossom: Used ```box-shadow:``` for the first time!
 
-:cherry_blossos: Used ```transition:``` for the first time!
+:cherry_blossom: Used ```transition:``` for the first time!
 
 :cherry_blossom: Discovered what ```height:100mv;``` means!
 
