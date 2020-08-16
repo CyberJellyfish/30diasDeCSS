@@ -38,5 +38,15 @@ Because of this project:
 Extra challenge:
 Change the color text for black when hover + altered transition time.
 
+**Day 2 - Animated Loader**
+![animated loader rotating](Images/day2.gif)
+
+Because of this project:
+
+:cherry_blossom: Used ```background: linear-gradient``` for the first time!
+
+:cherry_blossom: Used ```@keyframes``` and ```animation:``` for the first time!
 
 
+Extra challenge:
+Use two curves, different directions, the first one faster than the second one and the second one inside the first one.
