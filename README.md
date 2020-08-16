@@ -51,3 +51,19 @@ Because of this project:
 
 Extra challenge:
 Use two curves, different directions, the first one faster than the second one and the second one inside the first one.
+
+
+**Day 3 - Text changes its color when in another div**
+
+![text changing color when reaching the middle of the screen](Images/day3.gif)
+
+Because of this project:
+
+:cherry_blossom: Used ```<section></section>``` for the first time!
+
+:cherry_blossom: Used ```overflow:``` for the first time!
+
+:cherry_blossom: Used ```white-space``` for the first time!
+
+Extra challenge:
+I had a little of trouble finding an extra challenge. I tried to do an animated background, but changed my mind and tried to keep it simple.
