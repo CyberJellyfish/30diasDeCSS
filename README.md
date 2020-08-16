@@ -39,6 +39,7 @@ Extra challenge:
 Change the color text for black when hover + altered transition time.
 
 **Day 2 - Animated Loader**
+
 ![animated loader rotating](Images/day2.gif)
 
 Because of this project:
