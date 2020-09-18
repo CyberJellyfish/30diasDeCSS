@@ -82,3 +82,18 @@ Because of this project:
 
 Extra challenge:
 Make the bar disappear!
+
+**Day 5 - Pulse Effect**
+
+![pulse effect circle](Images/day%205.gif)
+
+Because of this project:
+
+:cherry_blossom: Used ```transform: scale();``` for the first time!
+
+
+:cherry_blossom: Used ```box-shadow``` for the first time!
+
+
+Extra challenge:
+Add a new effect.
