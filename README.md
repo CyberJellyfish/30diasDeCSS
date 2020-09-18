@@ -67,3 +67,18 @@ Because of this project:
 
 Extra challenge:
 I had a little of trouble finding an extra challenge. I tried to do an animated background, but changed my mind and tried to keep it simple.
+
+**Day 4 - Button with hover effect**
+
+![animated button](Images/day4.gif)
+
+Because of this project:
+
+:cherry_blossom: Used ```.btn:hover::before``` for the first time!
+
+
+:cherry_blossom: Used ```.btn:hover::after:``` for the first time!
+
+
+Extra challenge:
+Make the bar disappear!
