@@ -10,7 +10,7 @@ Idealized by  https://github.com/MilenaCarecho/30diasDeCSS.
 
 :cherry_blossom: Create new skills;
 
-## Rules
+## Rules - Restarted (17/9/2020)
 :cherry_blossom: One project everyday;
 
 :cherry_blossom: Otherwise, 3 projects in the next day;
