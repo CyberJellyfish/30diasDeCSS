@@ -10,7 +10,7 @@ Idealized by  https://github.com/MilenaCarecho/30diasDeCSS.
 
 :cherry_blossom: Create new skills;
 
-## Rules - Restarted (17/9/2020)
+## Rules - Restarted (30/9/2020)
 :cherry_blossom: One project everyday;
 
 :cherry_blossom: Otherwise, 3 projects in the next day;
@@ -97,3 +97,11 @@ Because of this project:
 
 Extra challenge:
 Add a new effect.
+
+**Day 6 - Lightning text**
+
+![lightning effect](Images/day6.gif)
+
+Because of this project:
+
+:cherry_blossom: Used ```text-shadow``` for the first time!
